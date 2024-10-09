@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>6c5a69a2-033b-4163-a7e0-541ef1ac98f7</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNet.WebApi.Client" Version="5.2.9" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.17.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GatewayInteractionContracts\GatewayInteractionContracts.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="ApnaKhata.DataModels">
+      <HintPath>..\..\ApnaPOC\ApnaKhata.DataModels\bin\Debug\net6.0\ApnaKhata.DataModels.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

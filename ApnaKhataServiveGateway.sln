@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApnaKhataServiveGateway", "ApnaKhataServiveGateway\ApnaKhataServiveGateway.csproj", "{34AEA55C-C2ED-4E74-9C80-7AFA738124A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GatewayInteractionContracts", "GatewayInteractionContracts\GatewayInteractionContracts.csproj", "{1F35767A-4111-4070-BCD8-7153C203A0D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34AEA55C-C2ED-4E74-9C80-7AFA738124A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34AEA55C-C2ED-4E74-9C80-7AFA738124A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34AEA55C-C2ED-4E74-9C80-7AFA738124A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34AEA55C-C2ED-4E74-9C80-7AFA738124A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F35767A-4111-4070-BCD8-7153C203A0D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F35767A-4111-4070-BCD8-7153C203A0D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F35767A-4111-4070-BCD8-7153C203A0D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F35767A-4111-4070-BCD8-7153C203A0D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B633817A-2609-42CB-87B0-90F2D6698D8A}
+	EndGlobalSection
+EndGlobal

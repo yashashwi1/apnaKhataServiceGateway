@@ -1,0 +1,15 @@
+C:\Users\srivasy\source\repos\ApnaKhataServiveGateway\GatewayInteractionContracts\bin\Debug\net6.0\GatewayInteractionContracts.deps.json
+C:\Users\srivasy\source\repos\ApnaKhataServiveGateway\GatewayInteractionContracts\bin\Debug\net6.0\GatewayInteractionContracts.dll
+C:\Users\srivasy\source\repos\ApnaKhataServiveGateway\GatewayInteractionContracts\bin\Debug\net6.0\GatewayInteractionContracts.pdb
+C:\Users\srivasy\source\repos\ApnaKhataServiveGateway\GatewayInteractionContracts\bin\Debug\net6.0\ApnaKhata.DataModels.dll
+C:\Users\srivasy\source\repos\ApnaKhataServiveGateway\GatewayInteractionContracts\bin\Debug\net6.0\ApnaKhata.DataModels.pdb
+C:\Users\srivasy\source\repos\ApnaKhataServiveGateway\GatewayInteractionContracts\obj\Debug\net6.0\GatewayInteractionContracts.csproj.AssemblyReference.cache
+C:\Users\srivasy\source\repos\ApnaKhataServiveGateway\GatewayInteractionContracts\obj\Debug\net6.0\GatewayInteractionContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srivasy\source\repos\ApnaKhataServiveGateway\GatewayInteractionContracts\obj\Debug\net6.0\GatewayInteractionContracts.AssemblyInfoInputs.cache
+C:\Users\srivasy\source\repos\ApnaKhataServiveGateway\GatewayInteractionContracts\obj\Debug\net6.0\GatewayInteractionContracts.AssemblyInfo.cs
+C:\Users\srivasy\source\repos\ApnaKhataServiveGateway\GatewayInteractionContracts\obj\Debug\net6.0\GatewayInteractionContracts.csproj.CoreCompileInputs.cache
+C:\Users\srivasy\source\repos\ApnaKhataServiveGateway\GatewayInteractionContracts\obj\Debug\net6.0\GatewayInteractionContracts.csproj.CopyComplete
+C:\Users\srivasy\source\repos\ApnaKhataServiveGateway\GatewayInteractionContracts\obj\Debug\net6.0\GatewayInteractionContracts.dll
+C:\Users\srivasy\source\repos\ApnaKhataServiveGateway\GatewayInteractionContracts\obj\Debug\net6.0\refint\GatewayInteractionContracts.dll
+C:\Users\srivasy\source\repos\ApnaKhataServiveGateway\GatewayInteractionContracts\obj\Debug\net6.0\GatewayInteractionContracts.pdb
+C:\Users\srivasy\source\repos\ApnaKhataServiveGateway\GatewayInteractionContracts\obj\Debug\net6.0\ref\GatewayInteractionContracts.dll
